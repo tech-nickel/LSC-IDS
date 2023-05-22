@@ -21,3 +21,5 @@ Probing,23388
 - [Kaggle IDS](https://www.kaggle.com/datasets/amankumar255/network-intrusion-detection)
 - [another kaggle Colleciton](https://www.kaggle.com/discussions/general/335189)
 - [Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/new_data201704/)
+- [List of datasets related to networking. Useful for data-driven evaluation or machine learning approaches](https://gist.github.com/stefanbschneider/96602bb3c8b256b90058d59f337a0e59)
+- [IoT-23 Dataset: A labeled dataset of Malware and Benign IoT Traffic.](https://www.stratosphereips.org/datasets-iot23)
