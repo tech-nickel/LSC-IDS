@@ -6,7 +6,7 @@ This repository contains the results of the module Learning and Softcomputing at
 - The folder [images](images/) contains all the images created in the Jupyter notebook.
 - The folder [jupyter_notebook](jupyter_notebook/) contains the Jypter notebook itself.
 - The folder [presentation](presentation/) contains our final presentation, which was held on 11.07.23 in connection with the completion of the module.
-- The folder [saved_models](saved_models/) contains all saved models.
+- The folder [saved_models](saved_models/) contains all saved models in the [joblib](https://joblib.readthedocs.io/en/stable/) format and the tensorflow models in the [SavedModel format](https://www.tensorflow.org/guide/saved_model).
 
 ## Authors
 - [Jonathan Ebinger](https://github.com/je223xafhw)
