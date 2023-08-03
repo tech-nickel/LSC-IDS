@@ -2,6 +2,12 @@
 
 This repository contains the results of the module Learning and Softcomputing at the [FH Wedel University of Applied Sciences](https://github.com/fh-wedel) in the summer semester 2023.
 
+## About the repository
+- The folder [images](images/) contains all the images created in the Jupyter notebook.
+- The folder [jupyter_notebook](jupyter_notebook/) contains the Jypter notebook itself.
+- The folder [presentation](presentation/) contains our final presentation, which was held on 11.07.23 in connection with the completion of the module.
+- The folder [saved_models](saved_models/) contains all saved models.
+
 ## Authors
 - [Jonathan Ebinger](https://github.com/je223xafhw)
 - [Marc Schmidt](https://github.com/mschmidt1703)
